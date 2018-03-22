@@ -1,0 +1,9 @@
+test\extentions\MyInterceptor.class
+test\extentions\MyCache.class
+test\models\OrderInfo.class
+test\ApiCallTest.class
+test\models\Protocol.class
+test\LocalApi.class
+test\models\Info.class
+test\models\PagedList.class
+test\DomainApi.class
