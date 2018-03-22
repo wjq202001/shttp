@@ -4,7 +4,7 @@ This project is designed to simplify the development of api calls for java.
 You can according the following 2 steps to use this tool:
 #Step 1: Define an api interface
 
-@Host(name = "****.api.autohome.com")
+@Host(name = "****.api.com")
 public interface DomainApi {
     @Url(path = "/profile/getinfo")
     Info getInfo(@Para(paraName = "id") int id);

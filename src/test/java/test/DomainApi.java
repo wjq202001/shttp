@@ -9,7 +9,7 @@ import test.models.Protocol;
 /**
  * Created by Wang Juqiang on 2018/1/9.
  */
-@Host(name = "****.api.autohome.com")
+@Host(name = "****.api.com")
 public interface DomainApi {
     @Url(path = "/profile/getinfo")
     Info getInfo(@Para(paraName = "id") int id);
